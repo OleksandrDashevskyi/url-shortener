@@ -1,0 +1,6 @@
+{
+  "port": 4000,
+  "jwtSecret": "Leo Milana",
+  "mongoUrl": "mongodb+srv://Oleksandr:Olek5798!@cluster0.axe5l.mongodb.net/urlShortener?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:4000"
+}
